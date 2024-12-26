@@ -48,3 +48,13 @@
     In Python, dictionaries are defined withinn braces {} with each item being a pair in the formm key:value
 
 # SET
+    A Set is an unordered collection of items.
+    Every set element is unique (no duplicates) and must be immutable (cannot be changed)
+    And is denoted by: {}
+
+# User Input and Type casting
+    Functions:
+    input()
+    int()
+    float()
+    eval()
