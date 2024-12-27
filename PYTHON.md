@@ -1,5 +1,31 @@
 # PYTHON PROGRAMMING
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+    
+    Features of PYTHON
+    • Easy to learn and Implement
+    • Open Source
+    • Broad Standard Library
+    • Cross Platform
+    • Work on Interpreter Logic
+    • Multi-Paradigm Language
+    • High Level Programming
+    • Extendable Language
+    • Expressive Programming Language
+    • GUI Programming support
 
+    Applications of Python:
+    • Networking Programming
+    • Data Analysis
+    • Website and application Development
+    • Desktop Application
+    • Games Development
+    • Web Scrapping
+    • Data Visualisation
+    •  Scientific Calculations
+    •  Machine Learning and Artificial Intelligence
+    •  3D Application Development
+    • Audio And Video Software Development
+    
 # DATA TYPES IN PYTHON
     1. Numeric
         a) integer
@@ -54,7 +80,7 @@
 
 # User Input and Type casting
     Functions:
-    input()
-    int()
-    float()
-    eval()
+    input() - used to take input from the user, and by default it returns a string value
+    int() - converts a string to an integer
+    float() - converts a string to a float
+    eval() - evaluates the string as a python expression

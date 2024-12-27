@@ -11,3 +11,12 @@ a = int(input("Enter a number: "))
 b = int(input("Enter another number: "))
 print("Your Sum: ",a + b)
 
+# float() - converts a string to a float
+a = float(input("Enter a number: "))
+b = float(input("Enter another number: "))
+print("Your Sum: ", a + b)
+
+# eval() - evaluates the string as a python expression
+a = eval(input("Enter a number: "))
+b = eval(input("Enter another number: "))
+print("Your Sum: ", a + b)
